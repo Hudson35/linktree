@@ -1,0 +1,25 @@
+{
+    "name": "Lee Robinson",
+    "avatar": "https://pbs.twimg.com/profile_images/1587647097670467584/adWRdqQ6_400x400.jpg",
+    "links": [
+        {
+            "title": "My personal site",
+            "url": "https://leerob.io",
+            "image": "https://pbs.twimg.com/profile_images/1587647097670467584/adWRdqQ6_400x400.jpg"
+        },
+        {
+            "title": "Vercel.com",
+            "url": "https://vercel.com"
+        }
+    ],
+    "socials": [
+        {
+            "title": "Twitter",
+            "url": "https://twitter.com/leeerob"
+        },
+        {
+            "title": "Github",
+            "url": "https://github.com/leerob"
+        }
+    ]
+}
